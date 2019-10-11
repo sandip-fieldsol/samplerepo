@@ -1,3 +1,4 @@
 test file
 changed1
 changed2
+changed3
